@@ -1,0 +1,44 @@
+﻿body {
+    background-color: #0096ff;
+}
+
+#nav {
+    position: -webkit-sticky;
+    position: sticky;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 1%;
+
+}
+
+#nav a {
+    text-decoration: none;
+    font-family: Impact, 'Trebuchet MS', sans-serif;
+    font-size: 5vw;
+    text-align: center;
+    color: white;
+    padding: 1% 5%;
+    margin-bottom: 1vw;
+    display: inline-block;
+    
+}
+
+#nav a:hover {
+    background-color: #0087d9;
+}
+
+#nav a:active {
+    background-color: #16a7ff;
+}
+
+h1 {
+    font-family: Impact, 'Trebuchet MS', sans-serif;
+    font-size: 6vw;
+    text-align: center;
+    color: white;
+    margin: 1%;
+}
+
+#footer {
+    border-top: solid, 3px, #0087d9;
+}
