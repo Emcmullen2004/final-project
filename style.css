@@ -1,5 +1,6 @@
 ﻿body {
     background-color: #0096ff;
+    margin: 0;
 }
 
 #nav {
@@ -39,15 +40,15 @@ h1 {
     margin: 1%;
 }
 
-#footer {
+.footer {
     background-color: #0086e6;
-    position: absolute;
     bottom: 0%;
     width: 100%;
     height: auto;
 }
 
-#icon {
-    width: 6vw;
-    height: 6vw;
+.icon {
+    width: 3vw;
+    height: 3vw;
+    padding: 2%;
 }
