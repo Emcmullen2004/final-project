@@ -13,7 +13,7 @@
 
 #nav a {
     text-decoration: none;
-    font-family: Impact, 'Trebuchet MS', sans-serif;
+    font-family: Impact, 'arial black', sans-serif;
     font-size: 5vw;
     text-align: center;
     color: white;
@@ -32,7 +32,7 @@
 }
 
 h1 {
-    font-family: Impact, 'Trebuchet MS', sans-serif;
+    font-family: Impact, 'arial black', sans-serif;
     font-size: 6vw;
     text-align: center;
     color: white;
@@ -40,5 +40,14 @@ h1 {
 }
 
 #footer {
-    border-top: solid, 3px, #0087d9;
+    background-color: #0086e6;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    height: auto;
+}
+
+#icon {
+    width: 6vw;
+    height: 6vw;
 }
